@@ -2,7 +2,7 @@
 
 Impartiendo módulos en los ciclos formativos de Desarrollo de Aplicaciones Web, Desarrollo de Aplicaciones Multiplataforma.
 <!--
-**TamaraCliment/TamaraCliment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TamaraCliment/TamaraCliment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 
 Here are some ideas to get you started:
